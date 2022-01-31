@@ -1,2 +1,2 @@
 # DIO_reposiotory
-Dio example repository
+Dio example repository for delivery
